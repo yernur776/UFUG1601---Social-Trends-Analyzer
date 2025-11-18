@@ -1,0 +1,23 @@
+# Core Data Science
+pandas>=2.0
+numpy>=1.25
+
+# Plotting and Visualization
+plotly>=6.0
+matplotlib>=3.8
+seaborn>=0.12
+
+# Machine Learning
+scikit-learn>=1.3
+
+# Dashboard
+dash>=2.15
+dash-core-components>=2.15
+dash-html-components>=2.15
+dash-bootstrap-components>=1.3
+
+# Optional for AI insights
+openai>=0.28
+
+# Utilities
+jupyterlab>=4.1
